@@ -1,5 +1,9 @@
 # NeuroVar: A Genetic Expression and Variation data visualization tool for Neurological diseases’ biomarkers
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HibaBenAribi/NeuroVar/main/neurovar-logo.png" alt="neurovar logo" width="300"  />
+</p>
+
 ## Table of Contents
 1. [Background](#Background)
 2. [About NeuroVar](#About-NeuroVar)
